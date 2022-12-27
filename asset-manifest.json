@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd93c89d.css",
-    "main.js": "/static/js/main.06eeae5c.js",
-    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
-    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
-    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
-    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
-    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
-    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
-    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
-    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
-    "static/media/home-image.png": "/static/media/home-image.1eb21c3a07ea528c3115.png",
-    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
-    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
-    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
-    "static/media/eye-off.svg": "/static/media/eye-off.e1e899a3ae97572262e6e0b5079325cf.svg",
-    "index.html": "/index.html",
-    "main.cd93c89d.css.map": "/static/css/main.cd93c89d.css.map",
-    "main.06eeae5c.js.map": "/static/js/main.06eeae5c.js.map"
+    "main.css": "/demo-expense-app-git/static/css/main.7e8ba648.css",
+    "main.js": "/demo-expense-app-git/static/js/main.292cc99a.js",
+    "static/media/fa-solid-900.ttf": "/demo-expense-app-git/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/demo-expense-app-git/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/Montserrat-Medium.ttf": "/demo-expense-app-git/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/Montserrat-Bold.ttf": "/demo-expense-app-git/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
+    "static/media/fa-brands-400.ttf": "/demo-expense-app-git/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/demo-expense-app-git/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/demo-expense-app-git/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/demo-expense-app-git/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/home-image.png": "/demo-expense-app-git/static/media/home-image.1eb21c3a07ea528c3115.png",
+    "static/media/fa-regular-400.woff2": "/demo-expense-app-git/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/demo-expense-app-git/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/demo-expense-app-git/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "static/media/eye-off.svg": "/demo-expense-app-git/static/media/eye-off.e1e899a3ae97572262e6e0b5079325cf.svg",
+    "index.html": "/demo-expense-app-git/index.html",
+    "main.7e8ba648.css.map": "/demo-expense-app-git/static/css/main.7e8ba648.css.map",
+    "main.292cc99a.js.map": "/demo-expense-app-git/static/js/main.292cc99a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd93c89d.css",
-    "static/js/main.06eeae5c.js"
+    "static/css/main.7e8ba648.css",
+    "static/js/main.292cc99a.js"
   ]
 }
