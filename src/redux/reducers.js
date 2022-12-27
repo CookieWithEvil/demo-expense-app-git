@@ -8,7 +8,7 @@ import {
 
 const initialState = {
   notifications: [],
-  loggedIn: true,
+  loggedIn: false,
 };
 
 export const rootReducer = (state = initialState, action) => {
