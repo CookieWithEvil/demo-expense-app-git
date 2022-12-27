@@ -16,7 +16,15 @@ function App() {
         <Route path="/sign-in" element={<Start />} />
         <Route path="/sign-up" element={<Start />} />
         <Route path="/home" element={<Home />} />
-        <Route path="*" element={<Navigate to="sign-in" replace />} />
+        <Route
+          path="*"
+          element={
+            <Navigate
+              to="https://cookiewithevil.github.io/demo-expense-app-git/sign-in"
+              replace
+            />
+          }
+        />
       </Routes>
     </div>
   );

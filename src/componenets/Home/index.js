@@ -35,7 +35,7 @@ export const Home = () => {
 
   useEffect(() => {
     if (!loggedIn) {
-      navigate("/sign-in");
+      navigate("https://cookiewithevil.github.io/demo-expense-app-git/sign-in");
     }
   }, [loggedIn]);
 
