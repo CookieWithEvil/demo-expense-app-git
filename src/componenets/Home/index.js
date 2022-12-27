@@ -28,14 +28,13 @@ export const Home = () => {
     );
     refreshToken = refreshToken && refreshToken[2];
 
-    if (!refreshToken)
-      navigate("https://cookiewithevil.github.io/demo-expense-app-git/login"); // also could've used api request to update refreshToken
+    if (!refreshToken) navigate("/demo-expense-app-git/login"); // also could've used api request to update refreshToken
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
     if (!loggedIn) {
-      navigate("https://cookiewithevil.github.io/demo-expense-app-git/sign-in");
+      navigate("/demo-expense-app-git/sign-in");
     }
   }, [loggedIn]);
 

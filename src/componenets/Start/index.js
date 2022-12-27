@@ -37,8 +37,7 @@ export const Start = () => {
   const { pathname } = useLocation();
 
   useEffect(() => {
-    if (loggedIn)
-      navigate("https://cookiewithevil.github.io/demo-expense-app-git/home");
+    if (loggedIn) navigate("/demo-expense-app-git/home");
   }, [loggedIn, navigate]);
 
   const updatePassword = (e, setProperty, setHiddenProperty) => {
@@ -167,18 +166,12 @@ export const Start = () => {
         {pathname.includes("sign-up") ? (
           <>
             I have an account.{" "}
-            <Link to="https://cookiewithevil.github.io/demo-expense-app-git/sign-in">
-              {" "}
-              Go to Sign in
-            </Link>
+            <Link to="/demo-expense-app-git/sign-in"> Go to Sign in</Link>
           </>
         ) : (
           <>
             Don’t have account yet?{" "}
-            <Link to="https://cookiewithevil.github.io/demo-expense-app-git/sign-up">
-              {" "}
-              New Account
-            </Link>
+            <Link to="/demo-expense-app-git/sign-up"> New Account</Link>
           </>
         )}
       </BottomText>

@@ -18,12 +18,7 @@ function App() {
         <Route path="/home" element={<Home />} />
         <Route
           path="*"
-          element={
-            <Navigate
-              to="https://cookiewithevil.github.io/demo-expense-app-git/sign-in"
-              replace
-            />
-          }
+          element={<Navigate to="/demo-expense-app-git/sign-in" replace />}
         />
       </Routes>
     </div>
