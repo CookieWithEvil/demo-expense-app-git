@@ -37,7 +37,8 @@ export const Start = () => {
   const { pathname } = useLocation();
 
   useEffect(() => {
-    if (loggedIn) navigate("/home");
+    if (loggedIn)
+      navigate("https://cookiewithevil.github.io/demo-expense-app-git/home");
   }, [loggedIn, navigate]);
 
   const updatePassword = (e, setProperty, setHiddenProperty) => {
@@ -51,7 +52,7 @@ export const Start = () => {
     e.preventDefault();
     setSubmitIsPressed(true);
 
-    if (pathname.includes("sign-up")) {
+    if (pathname.includes("/sign-up")) {
       if (password && username && displayName) {
         dispatch(
           register({
