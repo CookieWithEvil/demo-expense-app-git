@@ -36,7 +36,7 @@ export const Home = () => {
     if (!loggedIn) {
       navigate("/demo-expense-app-git/sign-in");
     }
-  }, [loggedIn]);
+  }, [loggedIn, navigate]);
 
   return (
     <Wrapper>
