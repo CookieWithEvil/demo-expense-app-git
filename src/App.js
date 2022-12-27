@@ -13,9 +13,9 @@ function App() {
       <NotificationContainer />
 
       <Routes>
-        <Route path="/sign-in" element={<Start />} />
-        <Route path="/sign-up" element={<Start />} />
-        <Route path="/home" element={<Home />} />
+        <Route path="/demo-expense-app-git/sign-in" element={<Start />} />
+        <Route path="/demo-expense-app-git/sign-up" element={<Start />} />
+        <Route path="/demo-expense-app-git/home" element={<Home />} />
         <Route
           path="*"
           element={<Navigate to="/demo-expense-app-git/sign-in" replace />}
