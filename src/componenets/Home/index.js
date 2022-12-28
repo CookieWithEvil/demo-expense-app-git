@@ -28,13 +28,13 @@ export const Home = () => {
     );
     refreshToken = refreshToken && refreshToken[2];
 
-    if (!refreshToken) navigate("/demo-expense-app-git/login"); // also could've used api request to update refreshToken
+    if (!refreshToken) navigate("/sign-in"); // also could've used api request to update refreshToken
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
     if (!loggedIn) {
-      navigate("/demo-expense-app-git/sign-in");
+      navigate("/sign-in");
     }
   }, [loggedIn, navigate]);
 

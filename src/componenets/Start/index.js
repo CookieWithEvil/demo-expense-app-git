@@ -37,7 +37,7 @@ export const Start = () => {
   const { pathname } = useLocation();
 
   useEffect(() => {
-    if (loggedIn) navigate("/demo-expense-app-git/home");
+    if (loggedIn) navigate("/home");
   }, [loggedIn, navigate]);
 
   const updatePassword = (e, setProperty, setHiddenProperty) => {
