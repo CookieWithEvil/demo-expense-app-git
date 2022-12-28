@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/demo-expense-app-git/static/css/main.7e8ba648.css",
-    "main.js": "/demo-expense-app-git/static/js/main.38007b00.js",
+    "main.js": "/demo-expense-app-git/static/js/main.d7247a21.js",
     "static/media/fa-solid-900.ttf": "/demo-expense-app-git/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/Montserrat-SemiBold.ttf": "/demo-expense-app-git/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
     "static/media/Montserrat-Medium.ttf": "/demo-expense-app-git/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
@@ -17,10 +17,10 @@
     "static/media/eye-off.svg": "/demo-expense-app-git/static/media/eye-off.e1e899a3ae97572262e6e0b5079325cf.svg",
     "index.html": "/demo-expense-app-git/index.html",
     "main.7e8ba648.css.map": "/demo-expense-app-git/static/css/main.7e8ba648.css.map",
-    "main.38007b00.js.map": "/demo-expense-app-git/static/js/main.38007b00.js.map"
+    "main.d7247a21.js.map": "/demo-expense-app-git/static/js/main.d7247a21.js.map"
   },
   "entrypoints": [
     "static/css/main.7e8ba648.css",
-    "static/js/main.38007b00.js"
+    "static/js/main.d7247a21.js"
   ]
 }
