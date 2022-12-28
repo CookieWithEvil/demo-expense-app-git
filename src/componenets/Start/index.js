@@ -165,13 +165,11 @@ export const Start = () => {
       <BottomText>
         {pathname.includes("sign-up") ? (
           <>
-            I have an account.{" "}
-            <Link to="/demo-expense-app-git/sign-in"> Go to Sign in</Link>
+            I have an account. <Link to="/sign-in"> Go to Sign in</Link>
           </>
         ) : (
           <>
-            Don’t have account yet?{" "}
-            <Link to="/demo-expense-app-git/sign-up"> New Account</Link>
+            Don’t have account yet? <Link to="/sign-up"> New Account</Link>
           </>
         )}
       </BottomText>
